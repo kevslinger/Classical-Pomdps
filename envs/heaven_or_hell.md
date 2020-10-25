@@ -1,5 +1,5 @@
 
-
+The agent wants to get to the terminal state of "Heaven" as quickly as possible. The other terminal state is "hell", which punishes the agent. The agent doesn't know which terminal state is heaven and which is hell, but can figure out by going to the "sign", or oracle, which tells it the correct position of heaven. In a fully observable setting, we would just go straight up and to heaven, but in partial observability we must first go to the oracle and then can go to heaven.
 
 ![heaven_or_hell_map_example](heaven_or_hell.png)
 
